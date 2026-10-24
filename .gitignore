@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+results/
+data/*
+*.pkl
+*.npz
+!data/228-1/
+!data/228-1/*.npz
+!data/real_tuning_23_sessions_32bins.npz
+!data/README.md
+*.log
